@@ -1,4 +1,4 @@
-This folder contains all necessary files to replicate the simulation study for the manuscript îDecision-making with multiple correlated binary outcomes in clinical trials" by Xynthia Kavelaars, Joris Mulder, and Maurits Kaptein.
+This folder contains all necessary files to replicate the simulation study for the manuscript ‚ÄùDecision-making with multiple correlated binary outcomes in clinical trials" by Xynthia Kavelaars, Joris Mulder, and Maurits Kaptein.
 
 Description of files and folders:
 ########################################################################################################
