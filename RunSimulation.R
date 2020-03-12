@@ -27,15 +27,11 @@ source("Functions/FunctionsComputeN.R")
 source("Functions/ComputeN.R")
 source("Functions/FunctionsPresentation.R")
 
-# Find least favorable values
-source("0.1 FindLeastFavorable.R")                # Run simulation
-source("0.2 EvaluateLeastFavorable.R")            # Evaluate simulation
-
 # Run simulations 
 source("1.1 Simulate FD.R")                       # Fixed design
 source("1.2 Simulate SD.R")                       # Group sequential design
 source("1.3 Simulate AD.R")                       # Adaptive design
-nSim <- 5000
+
 # Evaluate simulation
 source("2.0 Evaluate.R")                          # Extract and tabulate quantities of interest
 source("2.1 Make tables.R")                       # Make Latex table
